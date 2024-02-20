@@ -14,6 +14,11 @@ To use the React Testimonials component in your project, you can clone the repos
 
 ```bash
 git clone https://github.com/your-username/react-testimonials.git
+```
+
+Then, navigate to the project directory and install dependencies:
+
+```bash
 cd react-testimonials
 npm install
 ```
